@@ -1,12 +1,12 @@
 <h1 align="center">CADASTRO CLIENTES ( CRUD - create read update delete)</h1>
 <p align="center">🚀 Como executar e testar o projeto</p>
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Baixar repositório](#baixar-repositorio)
-   * [Testar](#testes)
-        * [VSCODE](#vscode)
-        * [Navegador](#navegador)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+<p align="center">
+ <a href="#baixar">Baixar repositório</a> •
+ <a href="#testar">Testar</a> • 
+ <a href="#vscode">VsCode</a> • 
+ <a href="#navegador">Navegador</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#autor">Autor</a>
+</p>
+
