@@ -15,10 +15,10 @@
 <p>Para baixar o repositorio basta clicar em <em>Code</em> em seguida clique em <em>Download ZIP<em> </p>
 
 <p> 1º passo: </p>
-<img src = "imagens\baixar1.png" title = "Como baixar?" alt = " Como baixar?" height="360" width="720">
+<img src = "https://drive.google.com/file/d/1iPvriU9tbyAmLQpL9cg9mE8B1faY5ElD/view?usp=sharing" title = "Como baixar?" alt = " Como baixar?" height="360" width="720">
 
 <p> 2º passo: </p>
-<img src = "imagens\baixar2.png" title = "Como baixar?" alt = " Como baixar?" height="360" width="720">
+<img src = "https://drive.google.com/file/d/1JsE66a7v6N9c295REDIACyTvWnbmZsbO/view?usp=sharing" title = "Como baixar?" alt = " Como baixar?" height="360" width="720">
 <p></p>
 <p>Em seguida basta extrair o arquivo em um diretório a seu críterio.</p>
 
@@ -33,20 +33,20 @@
 </p>
 
 ### <p>1º Passo:</p>
-<img src = "imagens\vscode1.png" title = "executar" alt = " executar" height="329" width="514" >
+<img src = "https://drive.google.com/file/d/1OmTOiUT0DWOYgWL-bYwi9mYk5t-1_eTv/view?usp=sharing" title = "executar" alt = " executar" height="329" width="514" >
 <p>
 
 </p>
 
 ### <p>2º Passo:</p>
-<img src = "imagens\vscode3.png" title = "executar" alt = " executar" height="592" width="738" >
+<img src = "https://drive.google.com/file/d/1IUW4Pnj8zxkqGxwslWduTELHQYODJHRI/view?usp=sharing" title = "executar" alt = " executar" height="592" width="738" >
 <p>
 
 </p>
 
 ### <p>3º Passo:</p><br>
 <p>No arquivo "main.js" você terá acesso ao CRUD </p>
-<img src = "imagens\vscode2.png" title = "executar" alt = " executar" height="365" width="683" >
+<img src = "https://drive.google.com/file/d/1EqHEHjNN_R23FgOnQlthWNGe4pOanzNK/view?usp=sharing" title = "executar" alt = " executar" height="365" width="683" >
 
 ## Navegador
 
