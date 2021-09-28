@@ -46,7 +46,7 @@
 
 ### <p>3º Passo:</p><br>
 <p>No arquivo "main.js" você terá acesso ao CRUD </p>
-<img src = "https://github.com/MatheusFOR/CADASTROCLIENTES/blob/main/imagens/vscode2.PNG" title = "executar" alt = " executar" height="365" width="633" >
+<img src = "https://github.com/MatheusFOR/CADASTROCLIENTES/blob/main/imagens/vscode2.PNG" title = "executar" alt = " executar" height="365" width="683" >
 
 ## Navegador
 
