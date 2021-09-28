@@ -15,7 +15,7 @@
 <p>Para baixar o repositorio basta clicar em <em>Code</em> em seguida clique em <em>Download ZIP<em> </p>
 
 <p> 1º passo: </p>
-<img src ="https://drive.google.com/file/d/1iPvriU9tbyAmLQpL9cg9mE8B1faY5ElD/view?usp=sharing" title = "Como baixar?" alt = " Como baixar?" >
+<img src ="https://github.com/MatheusFOR/CADASTROCLIENTES/blob/main/imagens/baixar1.PNG" title = "Como baixar?" alt = " Como baixar?" >
 
 <p> 2º passo: </p>
 <img src = "https://drive.google.com/file/d/1JsE66a7v6N9c295REDIACyTvWnbmZsbO/view?usp=sharing" title = "Como baixar?" alt = " Como baixar?" height="360" width="720">
